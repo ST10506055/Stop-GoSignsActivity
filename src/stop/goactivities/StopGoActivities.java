@@ -31,8 +31,9 @@ public class StopGoActivities {
         System.out.println("         **                      XX\n");
         System.out.println("        ****                    XXXX\n");
         System.out.println("     **********              XXXXXXXXXX\n");
-        System.out.println("|-----------------------------------------|\n");
-        System.out.println("|-----------------------------------------|\n");
+        System.out.println("|------------------------------------------|\n");
+        System.out.println("|------------------------------------------|\n");
+        
         
     }
     
