@@ -19,18 +19,20 @@ public class StopGoActivities {
     public static void main(String[] args) {
         //LEARNING SYS. OUT PRINTLN
         
-        System.out.println("              -----------              \n\n");
-        System.out.println("    ********                XXXXXXXX\n");
-        System.out.println("  *          *            X          X\n");
-        System.out.println("*     STOP     *        X      GO      X\n");
-        System.out.println("  *          *            X          X\n");
-        System.out.println("    ********                XXXXXXXX\n");
-        System.out.println("       **                      XX\n");
-        System.out.println("       **                      XX\n");
-        System.out.println("       **                      XX\n");
-        System.out.println("       **                      XX\n");
-        System.out.println("      ****                    XXXX\n");
-        System.out.println("   **********              XXXXXXXXXX\n");
+        System.out.println("                -----------              \n\n");
+        System.out.println("      ********                XXXXXXXX\n");
+        System.out.println("    *          *            X          X\n");
+        System.out.println("  *     STOP     *        X      GO      X\n");
+        System.out.println("    *          *            X          X\n");
+        System.out.println("      ********                XXXXXXXX\n");
+        System.out.println("         **                      XX\n");
+        System.out.println("         **                      XX\n");
+        System.out.println("         **                      XX\n");
+        System.out.println("         **                      XX\n");
+        System.out.println("        ****                    XXXX\n");
+        System.out.println("     **********              XXXXXXXXXX\n");
+        System.out.println("|-----------------------------------------|\n");
+        System.out.println("|-----------------------------------------|\n");
         
     }
     
