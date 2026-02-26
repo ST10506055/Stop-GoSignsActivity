@@ -20,10 +20,11 @@ public class StopGoActivities {
         //LEARNING SYS. OUT PRINTLN
         
         System.out.println("              -----------              \n\n");
-        System.out.println("    ********                XXXXXXXX\n\n");
-        System.out.println("  *          *            x          x");
-        System.out.println(" *            *          x            x\n\n");
-        System.out.println("  *          *            x          x");
+        System.out.println("    ********                XXXXXXXX\n");
+        System.out.println("  *          *            x          x\n");
+        System.out.println("*     STOP     *        x      GO      x\n");
+        System.out.println("  *          *            x          x\n");
+        System.out.println("    ********                XXXXXXXX\n");
     }
     
 }
