@@ -18,7 +18,7 @@ public class StopGoActivities {
      */
     public static void main(String[] args) {
         //LEARNING SYS. OUT PRINTLN
-        
+        //LEARNING \n - Next Line Command 
         System.out.println("                -----------              \n\n");
         System.out.println("      ********                XXXXXXXX\n");
         System.out.println("    *          *            X          X\n");
@@ -35,6 +35,6 @@ public class StopGoActivities {
         System.out.println("|------------------------------------------|\n");
         
         
-    }
+    } //End of main method
     
-}
+} //end of class  StopGoActivities
