@@ -17,7 +17,13 @@ public class StopGoActivities {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        //LEARNING SYS. OUT PRINTLN
+        
+        System.out.println("              -----------              \n\n");
+        System.out.println("    ********                XXXXXXXX\n\n");
+        System.out.println("  *          *            x          x");
+        System.out.println(" *            *          x            x\n\n");
+        System.out.println("  *          *            x          x");
     }
     
 }
